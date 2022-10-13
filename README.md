@@ -13,7 +13,7 @@ Word embedding techniques:
 Machine learning models:
 - Random Forest
 - Gradient Boosting
-- Recurrent Neural Network (LSTM)
+- Recurrent Neural Networks (LSTM)
 
 Model evaluation:
 - Grid search
