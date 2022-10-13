@@ -6,8 +6,8 @@ Word embedding techniques:
 - CountVectorizer
 - CountVectorizer(w/N-gram)
 - TfidfVectorizer
-- Word2Vec (leveraging pre-trained model and model training using gensim)
-- Doc2Vec (model training using gensim)
+- Word2Vec (leveraging pre-trained vectors and gensim for Word2Vec model building)
+- Doc2Vec (using gensim for Doc2Vec model building)
 - Recurrent Neural Network (word padding)
 
 Machine learning models:
